@@ -1,6 +1,5 @@
 ![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi.gif)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## :selfie: About me
 My name is Vincent Hsia. I am currently study for a master’s degree in Management Information System from National Chengchi University.
 My current main research is large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
@@ -25,6 +24,12 @@ The parts I was responsible for included model training, database setup and web 
 We used LoRA to fine-tune LLaMA-7B, and used PubMedQ&A as the dataset. We wanted to see if a large language model could analyze tokens it had not seen during pre-training. We get 68% accuracy during evaluation.
 ## :computer: Skill
 ### Programming Language
+![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi.gif)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 * Python
 * Javascript
 * C++
