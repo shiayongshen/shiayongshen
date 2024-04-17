@@ -1,7 +1,7 @@
 ![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi.gif)
 
 ## :selfie: About me
-My name is Vincent Hsia.I live in Taiwan 🇹🇼. I am currently study for a master’s degree in Management Information System from National Chengchi University.
+My name is Vincent Hsia.I live in Taiwan :taiwan: . I am currently study for a master’s degree in Management Information System from National Chengchi University.
 My current main research is large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
 ## 🏆 Stat
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiayongshen&show_icons=true&theme=radical">&nbsp;&nbsp;
