@@ -1,6 +1,6 @@
 ![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi.gif)
-<img alt="Static Badge" src="https://img.shields.io/badge/python-red">&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/python-red">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## :selfie: About me
 My name is Vincent Hsia. I am currently study for a master’s degree in Management Information System from National Chengchi University.
 My current main research is large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
