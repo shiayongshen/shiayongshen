@@ -45,7 +45,7 @@ We used LoRA to fine-tune LLaMA-7B, and used PubMedQ&A as the dataset. We wanted
 * MongoDB
 * MySQL
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api?username=shiayongshen&show_icons=true&theme=radical"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiayongshen&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=shiayongshen&show_icons=true&theme=radical"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiayongshen&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 
 <!--
 **shiayongshen/shiayongshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
