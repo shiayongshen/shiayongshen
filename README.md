@@ -9,12 +9,12 @@ My current main research is large language models. If you have any questions you
 ## :school: Education
 
 ###  2024-today
-  #### National ChengChi University (國立政治大學)
-  Master of Management Information System (資訊管理研究所)
+  #### National ChengChi University 
+  Master of Management Information System 
   
 ### 2020-2024
-  #### Kaohsiung Medical University (高雄醫學大學)
-  Bachelor of Healthcare Administration and Medical Informatics (醫務管理暨醫療資訊學系)
+  #### Kaohsiung Medical University 
+  Bachelor of Healthcare Administration and Medical Informatics 
 ## :nerd_face: My rearch
 
 ### [Real-Time Feedback System For Assessing Students’ Attention In Class Using rPPG And Emotion Recognition.](<https://github.com/shiayongshen/Real-time_Student_Status_Detection_System_based_on_ResNet50/>)
