@@ -1,4 +1,4 @@
-![image](https://github.com/shiayongshen/shiayongshen/blob/main/myself.gif)
+![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi%20!%20My%20name%20is%20Vincent.%20Welcome%20to%20my%20Github)%20(1)%20(1).gif)
 ## :selfie: About me
 My name is Vincent Hsia. I am currently study for a master’s degree in Management Information System from National Chengchi University.
 My current main research is large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
