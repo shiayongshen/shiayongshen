@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://github.com/shiayongshen/shiayongshen/blob/main/myself.gif)
 <!--
 **shiayongshen/shiayongshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
