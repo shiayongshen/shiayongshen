@@ -1,4 +1,5 @@
 ![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi.gif)
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiayongshen&show_icons=true&theme=radical"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiayongshen&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 ## :selfie: About me
 My name is Vincent Hsia. I am currently study for a master’s degree in Management Information System from National Chengchi University.
 My current main research is large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
@@ -45,7 +46,7 @@ We used LoRA to fine-tune LLaMA-7B, and used PubMedQ&A as the dataset. We wanted
 * MongoDB
 * MySQL
 
-<img height="100px" src="https://github-readme-stats.vercel.app/api?username=shiayongshen&show_icons=true&theme=radical"><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiayongshen&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+
 
 <!--
 **shiayongshen/shiayongshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
