@@ -12,7 +12,13 @@ My current main research is large language models. If you have any questions you
 ### 2020-2024
   **Kaohsiung Medical University**<br/>
   Bachelor of Healthcare Administration and Medical Informatics
+## :nerd_face: My rearch
 
+### [Real-Time Feedback System For Assessing Students’ Attention In Class Using rPPG And Emotion Recognition.](<https://github.com/shiayongshen/Real-time_Student_Status_Detection_System_based_on_ResNet50/>)
+The parts I was responsible for included model training, database setup and web development. We fine-tuned Resnet50 to detect students’ expressions in class, and we got 93.33% accuracy during evaluation. Besides, we also developed a Flask-based website for students and teachers to utilize, and a relation database to store results.
+
+### [LLaMA LoRA In PubMedQA](<https://github.com/shiayongshen/LLaMA_LoRA_in_PubMedQA/>)
+We used LoRA to fine-tune LLaMA-7B, and used PubMedQ&A as the dataset. We wanted to see if a large language model could analyze tokens it had not seen during pre-training. We get 68% accuracy during evaluation.
 ## :computer: Skill
 ### Programming Language
 * Python
