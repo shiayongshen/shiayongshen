@@ -48,7 +48,11 @@ We used LoRA to fine-tune LLaMA-7B, and used PubMedQ&A as the dataset. We wanted
 * MongoDB
 * MySQL
 
-
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/shiayongshen/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=shiayongshen&color=DE002D">
+   </a>
+</div>
 
 <!--
 **shiayongshen/shiayongshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
