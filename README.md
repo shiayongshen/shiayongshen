@@ -6,11 +6,11 @@ My current main research is large language models. If you have any questions you
 ## :school: Education
 
 ###  2024-today
-  **National Chengchi University**
+  **National Chengchi University**<br/>
   Master of Management Information System
   
 ### 2020-2024
-  **Kaohsiung Medical University**
+  **Kaohsiung Medical University**<br/>
   Bachelor of Healthcare Administration and Medical Informatics
 
 ## :computer: Skill
