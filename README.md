@@ -1,5 +1,5 @@
 ![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi.gif)
-<img alt="Static Badge" src="https://img.shields.io/badge/python-red">&nbsp;&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/python-red">&nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/python-red">
 ## :selfie: About me
 My name is Vincent Hsia. I am currently study for a master’s degree in Management Information System from National Chengchi University.
