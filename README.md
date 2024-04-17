@@ -1,7 +1,7 @@
 ![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi.gif)
 
 ## :selfie: About me
-My name is Vincent Hsia. I am currently study for a master’s degree in Management Information System from National Chengchi University.
+My name is Vincent Hsia.I live in Taiwan 🇹🇼. I am currently study for a master’s degree in Management Information System from National Chengchi University.
 My current main research is large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
 ## 🏆 Stat
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiayongshen&show_icons=true&theme=radical">&nbsp;&nbsp;
@@ -37,7 +37,12 @@ My current main research is large language models. If you have any questions you
 
 ### Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-
+### IDE
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)&nbsp;
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -48,6 +53,12 @@ The parts I was responsible for included model training, database setup and web 
 
 ### [LLaMA LoRA In PubMedQA](<https://github.com/shiayongshen/LLaMA_LoRA_in_PubMedQA/>)
 We used LoRA to fine-tune LLaMA-7B, and used PubMedQ&A as the dataset. We wanted to see if a large language model could analyze tokens it had not seen during pre-training. We get 68% accuracy during evaluation.
+
+## 📖 Area of Interest
+![Static Badge](https://img.shields.io/badge/RAG-yellow)&nbsp;
+![Static Badge](https://img.shields.io/badge/LLM-white)&nbsp;
+![Static Badge](https://img.shields.io/badge/NLP-red)&nbsp;
+
 
 
 <div align="center" style="margin: 40px 0">
