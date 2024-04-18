@@ -1,8 +1,8 @@
 ![image](https://github.com/shiayongshen/shiayongshen/blob/main/Hi.gif)
 
 ## :selfie: About me
-My name is Vincent Hsia.I live in Taiwan :taiwan: . I am currently study for a master’s degree in Management Information System from National Chengchi University.
-My current main research is large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
+My name is Vincent Hsia, and I live in Taiwan :taiwan: now. I am currently studying for a master’s degree in Management Information System from National Chengchi University.
+My current main research focuses on the application of large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
 ## 🏆 Stat
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiayongshen&show_icons=true&theme=radical">&nbsp;&nbsp;
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiayongshen&theme=vue-dark&line_height=22&layout=compact&hide=less" />&nbsp;&nbsp;
@@ -55,9 +55,9 @@ The parts I was responsible for included model training, database setup and web 
 We used LoRA to fine-tune LLaMA-7B, and used PubMedQ&A as the dataset. We wanted to see if a large language model could analyze tokens it had not seen during pre-training. We get 68% accuracy during evaluation.
 
 ## 📖 Area of Interest
-![Static Badge](https://img.shields.io/badge/RAG-yellow)&nbsp;
-![Static Badge](https://img.shields.io/badge/LLM-white)&nbsp;
-![Static Badge](https://img.shields.io/badge/NLP-red)&nbsp;
+![Static Badge](https://img.shields.io/badge/Retrieval--Augmented%20Generation-write)</br>
+![Static Badge](https://img.shields.io/badge/large%20language%20model-red)</br>
+
 
 
 
