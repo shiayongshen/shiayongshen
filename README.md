@@ -3,16 +3,25 @@
 ## :selfie: About me
 My name is Vincent Hsia, and I live in Taiwan :taiwan: now. I am currently studying for a master’s degree in Management Information System at National Chengchi University.
 My current main research focuses on the application of large language models. If you have any questions you would like to discuss, please feel free to contact me. :smile:
+
+
 ## 🏆 Stat
 
-<img height="150" src="https://ghstats.dev/api?username=shiayongshen&theme=radical" />
+<img height="150" src="https://ghstats.dev/api/card?username=shiayongshen&theme=radical" />
 &nbsp;&nbsp;
-<img height="150" src="https://streak-stats.demolab.com?user=shiayongshen&theme=radical" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiayongshen&theme=radical" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiayongshen&theme=radical" />## :school: Education
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiayongshen&theme=radical" />
 
+<br/>
+
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiayongshen&theme=radical" />
+&nbsp;&nbsp;
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiayongshen&theme=radical" />
+
+## :school: Education
 ###  2024-today
   #### National ChengChi University 
   Master of Management Information System 
